@@ -1,0 +1,5 @@
+#004 ex.006 (dobro, triplo e rais quadrada)
+n = int(input('Digite um numero: '))
+print(f'O dobro de {n} é {n * 2}')
+print(f'O triplo de {n} é {n*3}')
+print(f'A Raiz quadrada de {n} é {n ** 0.5 :.2f}')
