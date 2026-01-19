@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 (Pedra, Papel e Tesoura).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 036 (Aprovando Emprestimos).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 037 (Conversor de Bases Numéricas).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 038 (Comparando Números).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 039 (Alistamento Militar).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 040 (Aquele clássico da Média).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 041 (Classificando Atletas).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 042 (Analisando Triãngulos v2.0).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 043 (Indice de Massa Corporal).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 044 (Gerenciador de Pagamentos).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/Conferindo nomes juntos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 1/Video 12 (Operadores aritméticos) #7/#7 005 (sucessor e antecessor).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 1/Video 12 (Operadores aritméticos) #7/#7 005 (sucessor e antecessor).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 1/Video 12 (Operadores aritméticos) #7/#7 006 (dobro, triplo e rais quadrada).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 1/Video 12 (Operadores aritméticos) #7/#7 006 (dobro, triplo e rais quadrada).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 (Pedra, Papel e Tesoura).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 045 (Pedra, Papel e Tesoura).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 036 (Aprovando Emprestimos).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 036 (Aprovando Emprestimos).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.#12 036 (Aprovando Emprestimos).executor": "Run",
     "Python.#12 036.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -87,7 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1768860271957</updated>
       <workItem from="1768860273626" duration="8000" />
-      <workItem from="1768860324957" duration="3822000" />
+      <workItem from="1768860324957" duration="5536000" />
     </task>
     <servers />
   </component>
@@ -96,5 +89,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_036.coverage" NAME="#12 036 Coverage Results" MODIFIED="1768863146270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
+    <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_036__Aprovando_Emprestimos_.coverage" NAME="#12 036 (Aprovando Emprestimos) Coverage Results" MODIFIED="1768866318814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
   </component>
 </project>
