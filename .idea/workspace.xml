@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 1/Video 12 (Operadores aritméticos) #7/#7 005 (sucessor e antecessor).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 1/Video 12 (Operadores aritméticos) #7/#7 005 (sucessor e antecessor).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 1/Video 12 (Operadores aritméticos) #7/#7 006 (dobro, triplo e rais quadrada).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 1/Video 12 (Operadores aritméticos) #7/#7 006 (dobro, triplo e rais quadrada).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 (Pedra, Papel e Tesoura).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 045 (Pedra, Papel e Tesoura).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 036 (Aprovando Emprestimos).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 036 (Aprovando Emprestimos).py" afterDir="false" />
-    </list>
+    <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1768860271957</updated>
       <workItem from="1768860273626" duration="8000" />
-      <workItem from="1768860324957" duration="5536000" />
+      <workItem from="1768860324957" duration="5614000" />
     </task>
     <servers />
   </component>
