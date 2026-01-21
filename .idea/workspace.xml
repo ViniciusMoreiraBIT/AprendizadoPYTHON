@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="" />
+    <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 036 (Aprovando Emprestimos).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 036 (Aprovando Emprestimos).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 037 (Conversor de Bases Numéricas).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 037 (Conversor de Bases Numéricas).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 038 (Comparando Números).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 038 (Comparando Números).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 039 (Alistamento Militar).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 039 (Alistamento Militar).py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +51,9 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.#12 036 (Aprovando Emprestimos).executor": "Run",
     "Python.#12 036.executor": "Run",
+    "Python.#12 037 (Conversor de Bases Numéricas).executor": "Run",
+    "Python.#12 038 (Comparando Números).executor": "Run",
+    "Python.#12 039 (Alistamento Militar).executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -75,6 +84,7 @@
       <updated>1768860271957</updated>
       <workItem from="1768860273626" duration="8000" />
       <workItem from="1768860324957" duration="5614000" />
+      <workItem from="1768949874264" duration="4433000" />
     </task>
     <servers />
   </component>
@@ -82,7 +92,10 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_038__Comparando_Números_.coverage" NAME="#12 038 (Comparando Números) Coverage Results" MODIFIED="1768953217485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_036.coverage" NAME="#12 036 Coverage Results" MODIFIED="1768863146270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
-    <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_036__Aprovando_Emprestimos_.coverage" NAME="#12 036 (Aprovando Emprestimos) Coverage Results" MODIFIED="1768866318814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
+    <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_036__Aprovando_Emprestimos_.coverage" NAME="#12 036 (Aprovando Emprestimos) Coverage Results" MODIFIED="1768951312578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
+    <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_039__Alistamento_Militar_.coverage" NAME="#12 039 (Alistamento Militar) Coverage Results" MODIFIED="1768953894718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
+    <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_037__Conversor_de_Bases_Numéricas_.coverage" NAME="#12 037 (Conversor de Bases Numéricas) Coverage Results" MODIFIED="1768952633638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
   </component>
 </project>
