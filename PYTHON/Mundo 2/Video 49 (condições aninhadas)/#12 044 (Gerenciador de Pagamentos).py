@@ -4,3 +4,23 @@ considerando o seu preço normal e condição de pagamento:
 - À vista no cartão: 5% de desconto
 - Em até 2x no cartão: preço normal
 - 3x ou mais no cartão: 20% de juros'''
+
+valor = float(input('Preço do Produto: '))
+print('''Escolha uma forma de pagamento:
+
+-(1) à vista dinheiro/cheque: 10% de desconto
+-(2) À vista no cartão: 5% de desconto
+-(3) Em até 2x no cartão: preço normal
+-(4) 3x ou mais no cartão: 20% de juros''')
+pag = int(input('Forma de pagamento: '))
+if pag == 1:
+    desconto = valor * ( 10 / 100)
+    print(f'Valor a ser pago: R${valor - desconto:.2f}')
+elif pag == 2:
+    desconto = valor * ( 5 / 100)
+    print(f'Valor a ser pago: R${valor - desconto:.2f}')
+elif pag == 3:
+    print(f'Valor a ser pago: R${valor:.2f}')
+elif pag == 4:
+    juros = valor * ( 20 / 100)
+    print(f'Valor a ser pago: R${valor + juros:.2f}')
