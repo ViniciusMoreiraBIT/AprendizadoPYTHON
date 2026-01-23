@@ -16,9 +16,9 @@ elif idade <= 14:
 elif idade <= 19:
     print(f'Idade| {idade}')
     print('JUNIOR')
-elif idade == 20:
+elif idade <= 25:
     print(f'Idade| {idade}')
     print('SÊNIOR')
-elif 20 < idade :
+else:
     print(f'Idade| {idade}')
     print('MASTER')

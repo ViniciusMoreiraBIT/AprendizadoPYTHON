@@ -7,9 +7,9 @@ n1 = float(input('Primeira nota: '))
 n2 = float(input('Segunda nota: '))
 media = (n1 + n2) / 2
 if media < 5.0:
-    print(f'Reprovado! nota {media}')
+    print(f'Reprovado! nota {round(media, 1)}') #round(valor, casas_decimais)... round(media, 1) = uma casa decimal
 elif media <= 6.9:
-    print(f'Recuperação! nota {media}')
+    print(f'Recuperação! nota {round(media, 1)}')
 elif media >= 7.0:
-    print(f'Aprovado! nota {media}')
+    print(f'Aprovado! nota {round(media, 1)}')
 print('Bons estudos!')
