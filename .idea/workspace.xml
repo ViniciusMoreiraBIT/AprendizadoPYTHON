@@ -4,8 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="Update workspace.xml">
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 045 (Pedra, Papel e Tesoura).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/#12 045 (Pedra, Papel e Tesoura).py" afterDir="false" />
+    <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="resolvendo todos desafios">
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)/Testando Tupla, lista, dicionario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 046 (Contagem Regressiva).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 047 (Contagem de pares).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 048 (Soma ímpares múltiplos de três).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 049 (Tabuada v2.0).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 050 (Soma dos Pares).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 051 (Progressão Aritimética).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 052 (Números Primos).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 053 (Detector de Palíndromo).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 054 (Grupo da Maioridade).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 055 (Maior de menor da sequência).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 056 (Analisador Completo).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/for na pratica.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +73,8 @@
     "Python.045 Resultado diferente.executor": "Run",
     "Python.1 (centralização).executor": "Run",
     "Python.Meses do ano.executor": "Run",
+    "Python.Testando Tupla, lista, dicionario.executor": "Run",
+    "Python.for na pratica.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -93,7 +108,8 @@
       <workItem from="1768949874264" duration="4544000" />
       <workItem from="1769032397158" duration="6249000" />
       <workItem from="1769048805165" duration="732000" />
-      <workItem from="1769121392781" duration="7028000" />
+      <workItem from="1769121392781" duration="7078000" />
+      <workItem from="1769208457897" duration="4456000" />
     </task>
     <task id="LOCAL-00001" summary="Resolução de 4 problemas">
       <option name="closed" value="true" />
@@ -111,7 +127,31 @@
       <option name="project" value="LOCAL" />
       <updated>1769039077979</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="resolvendo todos desafios">
+      <option name="closed" value="true" />
+      <created>1769128509039</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769128509039</updated>
+    </task>
+    <task id="LOCAL-00004" summary="resolvendo todos desafios">
+      <option name="closed" value="true" />
+      <created>1769128517094</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1769128517094</updated>
+    </task>
+    <task id="LOCAL-00005" summary="resolvendo todos desafios">
+      <option name="closed" value="true" />
+      <created>1769128523120</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769128523120</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +161,9 @@
     <MESSAGE value="Resolução de 4 problemas" />
     <MESSAGE value="Desvendando commit" />
     <MESSAGE value="Update workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update workspace.xml" />
+    <MESSAGE value="acerto" />
+    <MESSAGE value="resolvendo todos desafios" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolvendo todos desafios" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_036.coverage" NAME="#12 036 Coverage Results" MODIFIED="1768863146270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
@@ -134,9 +176,11 @@
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_043__Indice_de_Massa_Corporal_.coverage" NAME="#12 043 (Indice de Massa Corporal) Coverage Results" MODIFIED="1769124811688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$1__centralização_.coverage" NAME="1 (centralização) Coverage Results" MODIFIED="1769036469192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 1/Video 12 (Operadores aritméticos) #7" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_036__Aprovando_Emprestimos_.coverage" NAME="#12 036 (Aprovando Emprestimos) Coverage Results" MODIFIED="1769121972692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
+    <SUITE FILE_PATH="coverage/AprendizadoPYTHON$Testando_Tupla__lista__dicionario.coverage" NAME="Testando Tupla, lista, dicionario Coverage Results" MODIFIED="1769210252310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_042__Analisando_Triãngulos_v2_0_.coverage" NAME="#12 042 (Analisando Triãngulos v2.0) Coverage Results" MODIFIED="1769034176624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_044__Gerenciador_de_Pagamentos_.coverage" NAME="#12 044 (Gerenciador de Pagamentos) Coverage Results" MODIFIED="1769125674668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_039__Alistamento_Militar_.coverage" NAME="#12 039 (Alistamento Militar) Coverage Results" MODIFIED="1769123456429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
+    <SUITE FILE_PATH="coverage/AprendizadoPYTHON$for_na_pratica.coverage" NAME="for na pratica Coverage Results" MODIFIED="1769212156959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_042__Analisando_Triângulos_v2_0_.coverage" NAME="#12 042 (Analisando Triângulos v2.0) Coverage Results" MODIFIED="1769124677607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_045__Pedra__Papel_e_Tesoura_.coverage" NAME="#12 045 (Pedra, Papel e Tesoura) Coverage Results" MODIFIED="1769128423656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
   </component>
