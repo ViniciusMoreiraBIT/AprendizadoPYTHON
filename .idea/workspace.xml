@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="resolvendo todos desafios">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 046 (Contagem Regressiva).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 046 (Contagem Regressiva).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 047 (Contagem de pares).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 047 (Contagem de pares).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 048 (Soma ímpares múltiplos de três).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 048 (Soma ímpares múltiplos de três).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 049 (Tabuada v2.0).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 049 (Tabuada v2.0).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 050 (Soma dos Pares).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 050 (Soma dos Pares).py" afterDir="false" />
-    </list>
+    <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="resolvendo todos desafios" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,44 +40,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.#12 036 (Aprovando Emprestimos).executor": "Run",
-    "Python.#12 036.executor": "Run",
-    "Python.#12 037 (Conversor de Bases Numéricas).executor": "Run",
-    "Python.#12 038 (Comparando Números).executor": "Run",
-    "Python.#12 039 (Alistamento Militar).executor": "Run",
-    "Python.#12 040 (Aquele clássico da Média).executor": "Run",
-    "Python.#12 041 (Classificando Atletas).executor": "Run",
-    "Python.#12 042 (Analisando Triângulos v2.0).executor": "Run",
-    "Python.#12 042 (Analisando Triãngulos v2.0).executor": "Run",
-    "Python.#12 043 (Indice de Massa Corporal).executor": "Run",
-    "Python.#12 044 (Gerenciador de Pagamentos).executor": "Run",
-    "Python.#12 045 (Pedra, Papel e Tesoura).executor": "Run",
-    "Python.#13 046 (Contagem Regressiva).executor": "Run",
-    "Python.#13 047 (Contagem de pares).executor": "Run",
-    "Python.#13 048 (Soma ímpares múltiplos de três).executor": "Run",
-    "Python.#13 049 (Tabuada v2.0).executor": "Run",
-    "Python.#13 050 (Soma dos Pares).executor": "Run",
-    "Python.045 Resultado diferente.executor": "Run",
-    "Python.1 (centralização).executor": "Run",
-    "Python.Meses do ano.executor": "Run",
-    "Python.Testando Tupla, lista, dicionario.executor": "Run",
-    "Python.for na pratica.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "ai.playground.ignore.import.keys.banner.in.settings": "true",
-    "git-widget-placeholder": "Aulas-do-Dia",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.#12 036 (Aprovando Emprestimos).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#12 036.executor&quot;: &quot;Run&quot;,
+    &quot;Python.#12 037 (Conversor de Bases Numéricas).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#12 038 (Comparando Números).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#12 039 (Alistamento Militar).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#12 040 (Aquele clássico da Média).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#12 041 (Classificando Atletas).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#12 042 (Analisando Triângulos v2.0).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#12 042 (Analisando Triãngulos v2.0).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#12 043 (Indice de Massa Corporal).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#12 044 (Gerenciador de Pagamentos).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#12 045 (Pedra, Papel e Tesoura).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#13 046 (Contagem Regressiva).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#13 047 (Contagem de pares).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#13 048 (Soma ímpares múltiplos de três).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#13 049 (Tabuada v2.0).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#13 050 (Soma dos Pares).executor&quot;: &quot;Run&quot;,
+    &quot;Python.045 Resultado diferente.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1 (centralização).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Meses do ano.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Testando Tupla, lista, dicionario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for na pratica.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Aulas-do-Dia&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -108,6 +101,7 @@
       <workItem from="1769121392781" duration="7078000" />
       <workItem from="1769208457897" duration="4790000" />
       <workItem from="1769280076724" duration="2609000" />
+      <workItem from="1769467238031" duration="596000" />
     </task>
     <task id="LOCAL-00001" summary="Resolução de 4 problemas">
       <option name="closed" value="true" />
