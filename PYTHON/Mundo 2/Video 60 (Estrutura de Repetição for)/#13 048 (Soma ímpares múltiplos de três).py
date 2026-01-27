@@ -6,3 +6,4 @@ que se encontram no intervalo de 1 até 500.'''
 for i in range(0, 500 + 1, 3):
     if i % 2 == 1:
          print(i)
+
