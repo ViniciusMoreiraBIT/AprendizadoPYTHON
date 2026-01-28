@@ -5,7 +5,7 @@ e quantas já são maiores'''
 p = []
 idadee = []
 for i in range(1, 7):
-    ano = int(input('Ano de Nascimento: '))
+    ano = int(input(f'{i}º Ano de Nascimento: '))
     p.append(ano)
 ma = 0
 me= 0
