@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="resolvendo todos desafios">
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/Teste For v2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 054 (Grupo da Maioridade).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 054 (Grupo da Maioridade).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 055 (Maior de menor da sequência).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 055 (Maior de menor da sequência).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +74,7 @@
     "Python.Meses do ano.executor": "Run",
     "Python.Progressão Geometrica.executor": "Run",
     "Python.Testando Tupla, lista, dicionario.executor": "Run",
+    "Python.Teste For v2.executor": "Run",
     "Python.for na pratica.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -116,7 +117,7 @@
       <workItem from="1769552654899" duration="1739000" />
       <workItem from="1769555621041" duration="3611000" />
       <workItem from="1769640486996" duration="699000" />
-      <workItem from="1769643202244" duration="787000" />
+      <workItem from="1769643202244" duration="2130000" />
     </task>
     <task id="LOCAL-00001" summary="Resolução de 4 problemas">
       <option name="closed" value="true" />
@@ -176,10 +177,11 @@
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_041__Classificando_Atletas_.coverage" NAME="#12 041 (Classificando Atletas) Coverage Results" MODIFIED="1769124197323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_13_052__Números_Primos_.coverage" NAME="#13 052 (Números Primos) Coverage Results" MODIFIED="1769554004124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_13_048__Soma_ímpares_múltiplos_de_três_.coverage" NAME="#13 048 (Soma ímpares múltiplos de três) Coverage Results" MODIFIED="1769469020625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)" />
+    <SUITE FILE_PATH="coverage/AprendizadoPYTHON$Teste_For_v2.coverage" NAME="Teste For v2 Coverage Results" MODIFIED="1769645674378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_13_050__Soma_dos_Pares_.coverage" NAME="#13 050 (Soma dos Pares) Coverage Results" MODIFIED="1769469150480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_038__Comparando_Números_.coverage" NAME="#12 038 (Comparando Números) Coverage Results" MODIFIED="1769122364346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$1__centralização_.coverage" NAME="1 (centralização) Coverage Results" MODIFIED="1769036469192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 1/Video 12 (Operadores aritméticos) #7" />
-    <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_13_055__Maior_de_menor_da_sequência_.coverage" NAME="#13 055 (Maior de menor da sequência) Coverage Results" MODIFIED="1769643927543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)" />
+    <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_13_055__Maior_de_menor_da_sequência_.coverage" NAME="#13 055 (Maior de menor da sequência) Coverage Results" MODIFIED="1769644264423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_13_049__Tabuada_v2_0_.coverage" NAME="#13 049 (Tabuada v2.0) Coverage Results" MODIFIED="1769469044385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_036__Aprovando_Emprestimos_.coverage" NAME="#12 036 (Aprovando Emprestimos) Coverage Results" MODIFIED="1769121972692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$Testando_Tupla__lista__dicionario.coverage" NAME="Testando Tupla, lista, dicionario Coverage Results" MODIFIED="1769210252310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
