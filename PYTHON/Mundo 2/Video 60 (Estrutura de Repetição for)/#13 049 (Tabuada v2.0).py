@@ -5,4 +5,4 @@ escolher, só que agora utilizando um laço for'''
 tab = int(input('Tabuada: '))
 print(f'TABUADA DO {tab}')
 for i in range (1, 10 + 1):
-    print(f'{tab} x {i} = { tab * i}')
+    print(f'{tab} x {i} = {tab * i}')

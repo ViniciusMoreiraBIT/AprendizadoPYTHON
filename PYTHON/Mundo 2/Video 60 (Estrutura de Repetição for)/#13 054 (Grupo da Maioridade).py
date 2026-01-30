@@ -2,7 +2,7 @@
 nascimento de sete pessoas. No final,
 mostre quantas pessoas ainda não atingiram a maioridade
 e quantas já são maiores'''
-p = []
+'''p = []
 idadee = []
 for i in range(1, 7):
     ano = int(input(f'{i}º Ano de Nascimento: '))
@@ -20,17 +20,28 @@ for i in range(0,6):
         idadee.append(idade)
         ma += 1
 
-print(f'''
+print(f'
 {ma} pessoas de Maior.
-{me} pessoas de Menor.''')
+{me} pessoas de Menor.')
 
 
-for i in range(0 , 7):
+for i in range(0 , len(idadee)):
     if idadee[i] >= 18:
         print(f'De maior:+ {idadee[i]}')
     else:
-        print(f'De menor:- {idadee[i]}')
+        print(f'De menor:- {idadee[i]}')'''
 
+maior=0
+menor=0
+for i in range(0,6):
+    ano = int(input(f'{i + 1} Ano de Nascimento: '))
+    if 2026 - ano >= 18:
+        maior += 1
+    else:
+        menor += 1
+
+print(f'Maiores: {maior}')
+print(f'Menores: {menor}')
 
 
 

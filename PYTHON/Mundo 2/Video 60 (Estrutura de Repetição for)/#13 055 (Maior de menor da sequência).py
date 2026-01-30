@@ -10,7 +10,7 @@ for i in range(1,6):
 print(f'O Maior peso lido foi: {max(peso)}')
 print(f'O Menor peso lido foi: {min(peso)}')
 
-del peso[int(input('Deletar: '))]
+del peso[int(input('Deletar: '))-1]
 
 print(peso)
 print(f'O Maior peso lido foi: {max(peso)}')
