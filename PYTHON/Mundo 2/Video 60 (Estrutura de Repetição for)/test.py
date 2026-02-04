@@ -116,7 +116,7 @@ def menu():
         elif int(res) == 3:
             menu_ctt()
         else:
-            break
+            continue
 
 menu()
 
