@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="resolvendo todos desafios">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 054 (Grupo da Maioridade).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 054 (Grupo da Maioridade).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 055 (Maior de menor da sequência).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 055 (Maior de menor da sequência).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 056 (Analisador Completo).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)/#13 056 (Analisador Completo).py" afterDir="false" />
-    </list>
+    <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="resolvendo todos desafios" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +120,7 @@
       <workItem from="1769734865987" duration="33000" />
       <workItem from="1769883656901" duration="11228000" />
       <workItem from="1770157428094" duration="7674000" />
-      <workItem from="1770247033165" duration="5165000" />
+      <workItem from="1770247033165" duration="5777000" />
     </task>
     <task id="LOCAL-00001" summary="Resolução de 4 problemas">
       <option name="closed" value="true" />
@@ -190,7 +185,7 @@
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_038__Comparando_Números_.coverage" NAME="#12 038 (Comparando Números) Coverage Results" MODIFIED="1769122364346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$1__centralização_.coverage" NAME="1 (centralização) Coverage Results" MODIFIED="1769036469192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 1/Video 12 (Operadores aritméticos) #7" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_13_055__Maior_de_menor_da_sequência_.coverage" NAME="#13 055 (Maior de menor da sequência) Coverage Results" MODIFIED="1770249182684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)" />
-    <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_13_056__Analisador_Completo_.coverage" NAME="#13 056 (Analisador Completo) Coverage Results" MODIFIED="1770252019053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)" />
+    <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_13_056__Analisador_Completo_.coverage" NAME="#13 056 (Analisador Completo) Coverage Results" MODIFIED="1770252414533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_13_049__Tabuada_v2_0_.coverage" NAME="#13 049 (Tabuada v2.0) Coverage Results" MODIFIED="1769728117055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 60 (Estrutura de Repetição for)" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_036__Aprovando_Emprestimos_.coverage" NAME="#12 036 (Aprovando Emprestimos) Coverage Results" MODIFIED="1769121972692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$Testando_Tupla__lista__dicionario.coverage" NAME="Testando Tupla, lista, dicionario Coverage Results" MODIFIED="1769210252310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
