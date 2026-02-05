@@ -20,7 +20,13 @@ elif pag == 2:
     desconto = valor * ( 5 / 100)
     print(f'Valor a ser pago: R${valor - desconto:.2f}')
 elif pag == 3:
+    print(f'2 parcelas de R${valor / 2:.2f}')
     print(f'Valor a ser pago: R${valor:.2f}')
 elif pag == 4:
+    parcelas = int(input('Quantas parcelas = '))
     juros = valor * ( 20 / 100)
-    print(f'Valor a ser pago: R${valor + juros:.2f}')
+    print(f'{parcelas} parcelas de R${(valor + juros) / parcelas:.2f}')
+    print(f'''Valor sem juros: R${valor}
+Valor com juros: R${valor + juros:.2f}''')
+else:
+    print('Opção invalida!')

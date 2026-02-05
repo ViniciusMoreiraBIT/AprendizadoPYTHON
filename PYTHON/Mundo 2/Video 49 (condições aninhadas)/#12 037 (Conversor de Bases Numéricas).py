@@ -9,14 +9,13 @@ print('''Escolha uma base de conversão:
 (2) Octal
 (3) Hexadecimal''')
 bi = bin(num)
-oc = oct(num)
-hexa= hex(num)
+oc = oct(num)[2:]
 res= int(input(' '))
 if res == 1:
     print(f'{num} em Binário: {bi[2:]}')
 elif res == 2:
-    print(f'{num} em Octal: {oc[2:]}')
+    print(f'{num} em Octal: {oc}')
 elif res == 3:
-    print(f'{num} em Hexadecimal: {hexa[2:]}')
+    print(f'{num} em Hexadecimal: {hex(num)[2:]}')
 else:
     print('ERRO')

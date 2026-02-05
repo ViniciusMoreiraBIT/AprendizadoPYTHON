@@ -7,11 +7,15 @@ r1 = float(input('Primeira reta: '))
 r2 = float(input('Segunda reta: '))
 r3 = float(input('Terceira reta: '))
 if r1 < r2 + r3 and r2 < r1 + r3 and r3 < r1 + r2:
+    print('Triângulo ', end='')
     if r1 == r2 == r3:
         print('Equilátero! Todos lados iguais')
-    elif r1 != r2 and r1 != r3 and r2 != r3:
+    #elif r1 != r2 and r1 != r3 and r2 != r3:
+    elif r1 != r2 != r3 != r1:
         print('Escaleno! Todos os lados diferentes')
-    elif r1 == r2 != r3 or r2 == r3 != r1 or r3 == r1 != r2:
+    #elif r1 == r2 != r3 or r2 == r3 != r1 or r3 == r1 != r2:
+    #ou
+    else:
         print('Isósceles! Dois lados iguais')
 else:
-    print('NÃO TRIANGULO')
+    print('Os seguimentos não podem formar um TRIÂNGULO')

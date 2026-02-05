@@ -7,7 +7,7 @@ print('Para a realização do empréstimo as parcelas do imóvel não pode ultra
 valor=float(input('Valor do imóvel: R$ '))
 salario=float(input('Salário do comprador: R$ '))
 ano=int(input('Pagar por quantos anos: '))
-valor_prestacao= valor / ano
+valor_prestacao= valor / (ano * 12) #Valo / Meses
 if valor_prestacao > salario * ( 30 / 100):
     print('Empréstimo negado')
     print(f'''30% do salario: R${salario * ( 30 / 100)}
