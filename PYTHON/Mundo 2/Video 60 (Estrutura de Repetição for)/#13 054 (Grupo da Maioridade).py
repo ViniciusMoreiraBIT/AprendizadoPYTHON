@@ -30,12 +30,12 @@ for i in range(0 , len(idadee)):
         print(f'De maior:+ {idadee[i]}')
     else:
         print(f'De menor:- {idadee[i]}')'''
-
+from datetime import date
 maior=0
 menor=0
 for i in range(0,6):
     ano = int(input(f'{i + 1} Ano de Nascimento: '))
-    if 2026 - ano >= 18:
+    if date.today().year - ano >= 18:
         maior += 1
     else:
         menor += 1
