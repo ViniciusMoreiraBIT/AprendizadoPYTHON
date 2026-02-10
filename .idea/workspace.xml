@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="resolvendo todos desafios">
-      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/While.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#14 057 (Validação de Dados).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#14 058 (Jogo da Adivinhação v2.0).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#14 059 (Criando um Menu de Opções).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#14 060 (Calculo Fatorial).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#14 061 (Progreção Aritmética v2.0).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#14 062 (Progreção Aritmética v3.0).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#14 063 (Sequência de Fibonacci v1.0).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#14 064 (Tratando Varios Valores).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#14 065 (Maior e Menor valores).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +47,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="38UhtEkVzvsQXwytG8DmrBtvFRN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -69,6 +80,10 @@
     "Python.#13 054 (Grupo da Maioridade).executor": "Run",
     "Python.#13 055 (Maior de menor da sequência).executor": "Run",
     "Python.#13 056 (Analisador Completo).executor": "Run",
+    "Python.#14 057 (Validação de Dados).executor": "Run",
+    "Python.#14 058 (Jogo da Adivinhação v2.0).executor": "Run",
+    "Python.#14 059 (Criando um Menu de Opções).executor": "Run",
+    "Python.#14 060 (Calculo Fatorial).executor": "Run",
     "Python.045 Resultado diferente.executor": "Run",
     "Python.1 (centralização).executor": "Run",
     "Python.Meses do ano.executor": "Run",
