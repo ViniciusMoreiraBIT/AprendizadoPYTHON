@@ -19,7 +19,7 @@ while True:
         soma += n
         loop += 1
         numbers.append(n)
-    if n == 999:
+    elif n == 999:
         media = soma / loop
         print(f'\nA Média foi: {media:.2f}')
         print(f'O maior número digitado foi: {max(numbers)}\nO menor número digitado foi: {min(numbers)}\n\nDeseja adicionar mais valores? (S/N)')
@@ -35,7 +35,6 @@ while True:
                     break
         if res == 'N':
             break
-
 
     else:
         continue
