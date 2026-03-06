@@ -29,6 +29,7 @@ while True:
         break
     else:
         print('\nOpção invalida..\n')'''
+
 from time import sleep
 n1 = int(input('Primeiro número: '))
 n2 = int(input('Segundo número: '))
