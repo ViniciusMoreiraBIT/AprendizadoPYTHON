@@ -2,26 +2,39 @@
 quer mostrar mais alguns termos. O programa encerra
 quando ele disser que quer mostrar 0 termos'''
 
-while True:
-    rr = input('Quer ver algum termo ?\n(1)SIM\n(0)NÃO\n')
-    if not rr.isdigit() or int(rr) not in (1,0):
-        continue
-    else:
-        rr = int(rr)
-        if rr == 1:
-            termo = int(input('Primeiro termo: '))
-            PA = int(input('Razão da PA: '))
-            loop = 1
-            res = termo
-            while loop <= 10:
-                print(res, end='')
-                print(' → ' if loop < 10 else '\n', end='')
-                res += PA
-                loop += 1
+#Minha resolução ↓
+'''primeiro = int(input('Primeiro termo: '))
+razao = int(input('Razão da PA: '))
+cont = 1
+termo = primeiro
+conttermo = 0
+while cont <= 10:
+    print(termo,end='')
+    print(' → ' if cont < 10 else '', end='')
+    termo += razao
+    cont += 1
+    conttermo += 1
+    if cont > 10:
+        print('\n')
+        per = int(input('Quantos termos você quer mostrar a mais? '))
+        if per != 0:
+            cont -= per
+        else:
+            print(f'Progressão finalizada com {conttermo} termos mostrados.')'''
 
-        elif rr == 0:
-            break
-
-
-
-
+primeiro = int(input('Primeiro termo: '))
+razao = int(input('Razão da PA: '))
+cont = 1
+termo = primeiro
+total = 0
+mais = 10
+while mais != 0:
+    total = total + mais
+    while cont <= total:
+        print(f'{termo}', end='')
+        print(' → ' if cont < total else '', end='')
+        termo += razao
+        cont += 1
+    mais = int(input('\nQauntos termos a mais você quer mostrar a mais? '))
+print(f'Progressão finalizada com {total} termos mostrados')
+print('\nFIM')
