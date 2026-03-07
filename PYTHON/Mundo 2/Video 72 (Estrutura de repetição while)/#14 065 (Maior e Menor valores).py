@@ -3,7 +3,8 @@ No final da execução, mostre a média entre todos os valores
 e qual foi o maior e o menor valores lidos. O progama deve
 perguntar ao usúario se ele quer ou não continuar a digitar valores.'''
 
-numbers = []
+#Minha resolução ↓ (todos usei while True)
+'''numbers = []
 print('Digite vários valores, no final vamos mostrar a média desses valores e o Maior! 999 para parar.')
 loop = 0
 soma = 0
@@ -35,6 +36,24 @@ while True:
                     break
         if res == 'N':
             break
-
     else:
-        continue
+        continue'''
+
+print('\nDigite vários valores, no final vamos mostrar a média desses valores e o Maior!')
+resp = 'S'
+soma = quant = media = maior = menor = 0
+while resp in 'Ss':
+    num  = int(input('Digite um número: '))
+    soma += num
+    quant += 1
+    if quant == 1:
+        maior = menor = num
+    else:
+        if num > maior:
+            maior = num
+        if num < menor:
+            menor = num
+
+    resp = str(input('Quer continuar [S/N] ? ')).upper().strip()
+media += soma / quant
+print(f'Você digitou {quant} números e a média foi {media:.2f}\nO maior número digitado foi: {maior}\nO menor número digitado foi: {menor}')
