@@ -13,11 +13,12 @@ while True:
     poi = str(input('Par ou Ímpar? [P/I]: ')).upper()
     pc = randint (0,10)
     soma = n + pc
-    if poi == 'P' and soma % 2 == 0:
-        print(f'Você jogou {n} e o computador {pc}. Total de {soma} DEU PAR')
-        print('\033[1;32mVocê VENCEU!\033[m\nVamos jogar novamente...')
-        vitoria += 1
-        continue
+    if poi == 'P':
+        if soma % 2 == 0:
+            print(f'Você jogou {n} e o computador {pc}. Total de {soma} DEU PAR')
+            print('\033[1;32mVocê VENCEU!\033[m\nVamos jogar novamente...')
+            vitoria += 1
+            continue
     else:
         print(f'Você jogou {n} e o computador {pc}. Total de {soma} DEU IMPAR')
         break
