@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="Arrumando o 68">
+    <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="Minha resolução do exercicio 69">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 069 (Análise de dados do grupo).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 069 (Análise de dados do grupo).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 070 (Estatísticas em produtos).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 070 (Estatísticas em produtos).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 071 (Simulador de Caixa Eletrônico).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 071 (Simulador de Caixa Eletrônico).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +86,7 @@
     "Python.#15 067 (Tabuada v3.0).executor": "Run",
     "Python.#15 068 (Jogo do par ou impar).executor": "Run",
     "Python.#15 069 (Análise de dados do grupo).executor": "Run",
+    "Python.#15 070 (Estatísticas em produtos).executor": "Run",
     "Python.045 Resultado diferente.executor": "Run",
     "Python.1 (centralização).executor": "Run",
     "Python.Meses do ano.executor": "Run",
@@ -249,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773159623419</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Minha resolução do exercicio 69">
+      <option name="closed" value="true" />
+      <created>1774053715930</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1774053715930</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,7 +279,8 @@
     <MESSAGE value="resoluções dos exercicios 62 e 63" />
     <MESSAGE value="resoluções dos exercicios 64 e 65&#10;adição dos exercicios 66 ao 71" />
     <MESSAGE value="Arrumando o 68" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arrumando o 68" />
+    <MESSAGE value="Minha resolução do exercicio 69" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minha resolução do exercicio 69" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -278,6 +289,11 @@
           <url>file://$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#14 060 (Calculo Fatorial).py</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 069 (Análise de dados do grupo).py</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
