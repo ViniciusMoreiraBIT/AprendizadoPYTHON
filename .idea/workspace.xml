@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="Minha resolução do exercicio 69">
+    <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="Minha resolução do exercicio 70 e descrição do ex 71">
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/071 sem while.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 070 (Estatísticas em produtos).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 070 (Estatísticas em produtos).py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 071 (Simulador de Caixa Eletrônico).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 071 (Simulador de Caixa Eletrônico).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +87,9 @@
     "Python.#15 068 (Jogo do par ou impar).executor": "Run",
     "Python.#15 069 (Análise de dados do grupo).executor": "Run",
     "Python.#15 070 (Estatísticas em produtos).executor": "Run",
+    "Python.#15 071 (Simulador de Caixa Eletrônico).executor": "Run",
     "Python.045 Resultado diferente.executor": "Run",
+    "Python.071 sem while.executor": "Run",
     "Python.1 (centralização).executor": "Run",
     "Python.Meses do ano.executor": "Run",
     "Python.Progressão Geometrica.executor": "Run",
@@ -259,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774053715930</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Minha resolução do exercicio 70 e descrição do ex 71">
+      <option name="closed" value="true" />
+      <created>1774568356633</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1774568356633</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,7 +290,8 @@
     <MESSAGE value="resoluções dos exercicios 64 e 65&#10;adição dos exercicios 66 ao 71" />
     <MESSAGE value="Arrumando o 68" />
     <MESSAGE value="Minha resolução do exercicio 69" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minha resolução do exercicio 69" />
+    <MESSAGE value="Minha resolução do exercicio 70 e descrição do ex 71" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minha resolução do exercicio 70 e descrição do ex 71" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
