@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="resolvendo todos desafios" />
+    <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="Finalizando Todos exercicios do Mundo 2." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +36,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="38UhtEkVzvsQXwytG8DmrBtvFRN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,14 +69,36 @@
     &quot;Python.#13 054 (Grupo da Maioridade).executor&quot;: &quot;Run&quot;,
     &quot;Python.#13 055 (Maior de menor da sequência).executor&quot;: &quot;Run&quot;,
     &quot;Python.#13 056 (Analisador Completo).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#14 057 (Validação de Dados).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#14 058 (Jogo da Adivinhação v2.0).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#14 059 (Criando um Menu de Opções).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#14 060 (Calculo Fatorial).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#14 061 (Progreção Aritmética v2.0).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#14 062 (Progreção Aritmética v3.0).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#14 063 (Sequência de Fibonacci v1.0).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#14 064 (Tratando Varios Valores).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#14 065 (Maior e Menor valores).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#15 066 (Varios números com flag).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#15 067 (Tabuada v3.0).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#15 068 (Jogo do par ou impar).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#15 069 (Análise de dados do grupo).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#15 070 (Estatísticas em produtos).executor&quot;: &quot;Run&quot;,
+    &quot;Python.#15 071 (Simulador de Caixa Eletrônico).executor&quot;: &quot;Run&quot;,
     &quot;Python.045 Resultado diferente.executor&quot;: &quot;Run&quot;,
+    &quot;Python.071 sem while.executor&quot;: &quot;Run&quot;,
     &quot;Python.1 (centralização).executor&quot;: &quot;Run&quot;,
+    &quot;Python.Menu Informática Básica.executor&quot;: &quot;Run&quot;,
     &quot;Python.Meses do ano.executor&quot;: &quot;Run&quot;,
     &quot;Python.Progressão Geometrica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tabuada.executor&quot;: &quot;Run&quot;,
     &quot;Python.Testando Tupla, lista, dicionario.executor&quot;: &quot;Run&quot;,
     &quot;Python.Teste For v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.While True.executor&quot;: &quot;Run&quot;,
+    &quot;Python.While.executor&quot;: &quot;Run&quot;,
     &quot;Python.for na pratica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tabuada.executor&quot;: &quot;Run&quot;,
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
@@ -90,7 +115,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.142" />
         <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
       </set>
     </attachedChunks>
@@ -120,7 +144,9 @@
       <workItem from="1769734865987" duration="33000" />
       <workItem from="1769883656901" duration="11228000" />
       <workItem from="1770157428094" duration="7674000" />
-      <workItem from="1770247033165" duration="5777000" />
+      <workItem from="1770247033165" duration="6375000" />
+      <workItem from="1770332993186" duration="8000" />
+      <workItem from="1770333010886" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="Resolução de 4 problemas">
       <option name="closed" value="true" />
@@ -162,7 +188,103 @@
       <option name="project" value="LOCAL" />
       <updated>1769128523120</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Progressao aritmetica">
+      <option name="closed" value="true" />
+      <created>1772580693931</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1772580693931</updated>
+    </task>
+    <task id="LOCAL-00007" summary="UFF">
+      <option name="closed" value="true" />
+      <created>1772668679956</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1772668679956</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Se nao for só números implementado aos input">
+      <option name="closed" value="true" />
+      <created>1772726063538</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1772726063538</updated>
+    </task>
+    <task id="LOCAL-00009" summary="resoluções dos exercicios 57,58 e 59">
+      <option name="closed" value="true" />
+      <created>1772759959276</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1772759959276</updated>
+    </task>
+    <task id="LOCAL-00010" summary="resoluções dos exercicios 59,60, 61 e 62">
+      <option name="closed" value="true" />
+      <created>1772817161372</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1772817161372</updated>
+    </task>
+    <task id="LOCAL-00011" summary="resoluções dos exercicios 62 e 63">
+      <option name="closed" value="true" />
+      <created>1772841171942</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1772841171943</updated>
+    </task>
+    <task id="LOCAL-00012" summary="resoluções dos exercicios 64 e 65&#10;adição dos exercicios 66 ao 71">
+      <option name="closed" value="true" />
+      <created>1772905959294</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1772905959294</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Arrumando o 68">
+      <option name="closed" value="true" />
+      <created>1773159623419</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1773159623419</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Minha resolução do exercicio 69">
+      <option name="closed" value="true" />
+      <created>1774053715930</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1774053715930</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Minha resolução do exercicio 70 e descrição do ex 71">
+      <option name="closed" value="true" />
+      <created>1774568356633</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1774568356633</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Minha resolução do exercicio 71 e ex 71 sem while">
+      <option name="closed" value="true" />
+      <created>1774724282037</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1774724282037</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Finalizando Todos exercicios do Mundo 2.">
+      <option name="closed" value="true" />
+      <created>1775777277861</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1775777277861</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +296,30 @@
     <MESSAGE value="Update workspace.xml" />
     <MESSAGE value="acerto" />
     <MESSAGE value="resolvendo todos desafios" />
-    <option name="LAST_COMMIT_MESSAGE" value="resolvendo todos desafios" />
+    <MESSAGE value="Progressao aritmetica" />
+    <MESSAGE value="UFF" />
+    <MESSAGE value="Se nao for só números implementado aos input" />
+    <MESSAGE value="resoluções dos exercicios 57,58 e 59" />
+    <MESSAGE value="resoluções dos exercicios 59,60, 61 e 62" />
+    <MESSAGE value="resoluções dos exercicios 62 e 63" />
+    <MESSAGE value="resoluções dos exercicios 64 e 65&#10;adição dos exercicios 66 ao 71" />
+    <MESSAGE value="Arrumando o 68" />
+    <MESSAGE value="Minha resolução do exercicio 69" />
+    <MESSAGE value="Minha resolução do exercicio 70 e descrição do ex 71" />
+    <MESSAGE value="Minha resolução do exercicio 71 e ex 71 sem while" />
+    <MESSAGE value="Finalizando Todos exercicios do Mundo 2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalizando Todos exercicios do Mundo 2." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#14 060 (Calculo Fatorial).py</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/AprendizadoPYTHON$_12_041__Classificando_Atletas_.coverage" NAME="#12 041 (Classificando Atletas) Coverage Results" MODIFIED="1769124197323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PYTHON/Mundo 2/Video 49 (condições aninhadas)" />
