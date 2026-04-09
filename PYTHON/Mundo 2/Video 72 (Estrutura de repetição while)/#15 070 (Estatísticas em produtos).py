@@ -4,9 +4,9 @@ A) Qual é o total gasto na compra.
 B) Quantos produtos custam mais de R$1000
 C) Qual é o nome do produto mais barato'''
 
-total = maismil = 0
+#Minha resolução ↓
+'''total = maismil = rep = 0
 barato = ''
-rep = 0
 while True:
     while True:
         nome_produto = input('Nome do Produto: ')
@@ -50,7 +50,26 @@ while True:
 print('-'*10,'FIM DO PROGRAMA','-' * 10)
 print(f'O total da compra foi R${total:.2f}')
 print(f'Temos {maismil} produtos custando mais de R$1000')
-print(f'O produto mais barato foi {barato} custando R${custo:.2f}')
+print(f'O produto mais barato foi {barato} custando R${custo:.2f}')'''
 
-
-
+barato = ''
+total = totmil = menor = cont = 0
+while True:
+    produto = str(input('Nome do Produto: ')).strip()
+    preco = float(input('Preço: R$ '))
+    cont += 1
+    total += preco
+    resp = ' '
+    if preco > 1000:
+        totmil += 1
+    if cont == 1 or preco < menor:
+        menor = preco
+        barato = produto
+    while resp not in 'SN':
+        resp = str(input('Deseja continuar? [S/N] ')).strip().upper()[0]
+    if resp == 'N':
+        break
+print(f'{'Fim do Programa!':-^40}')
+print(f'O total da compra foi: R${total:.2f}')
+print(f'Temos {totmil} produtos custando mais de R$1000')
+print(f'O pruduto mais barato é o {barato } custando R${menor}')

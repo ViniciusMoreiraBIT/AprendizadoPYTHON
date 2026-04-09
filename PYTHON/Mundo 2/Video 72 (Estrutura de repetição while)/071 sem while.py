@@ -1,7 +1,7 @@
 valor = int(input('Valor: R$ '))
 
-cinquenta = valor // 50
-valor %= 50
+cinquenta = valor // 50 #“quantas vezes o número 50 cabe dentro de valor ex:. 287 // 50 = 5”
+valor %= 50 #o que sobrou depois de tirar X 50 de valor ex:. 287 % 50 = 37 ?
 vinte = valor // 20
 valor %= 20
 dez = valor // 10
