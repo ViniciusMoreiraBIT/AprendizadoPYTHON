@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="Minha resolução do exercicio 71 e ex 71 sem while">
-      <change afterPath="$PROJECT_DIR$/PYTHON/Trabalho Faculdade/Menu Informática Básica.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 066 (Varios números com flag).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 066 (Varios números com flag).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 067 (Tabuada v3.0).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 068 (Jogo do par ou impar).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 068 (Jogo do par ou impar).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 069 (Análise de dados do grupo).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 069 (Análise de dados do grupo).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 070 (Estatísticas em produtos).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 070 (Estatísticas em produtos).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 071 (Simulador de Caixa Eletrônico).py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#15 071 (Simulador de Caixa Eletrônico).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/071 sem while.py" beforeDir="false" afterPath="$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/071 sem while.py" afterDir="false" />
-    </list>
+    <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="Finalizando Todos exercicios do Mundo 2." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -286,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774724282037</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Finalizando Todos exercicios do Mundo 2.">
+      <option name="closed" value="true" />
+      <created>1775777277861</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1775777277861</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,7 +307,8 @@
     <MESSAGE value="Minha resolução do exercicio 69" />
     <MESSAGE value="Minha resolução do exercicio 70 e descrição do ex 71" />
     <MESSAGE value="Minha resolução do exercicio 71 e ex 71 sem while" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minha resolução do exercicio 71 e ex 71 sem while" />
+    <MESSAGE value="Finalizando Todos exercicios do Mundo 2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalizando Todos exercicios do Mundo 2." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
