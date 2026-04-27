@@ -50,6 +50,3 @@ while True:
         totalced = 0
         if total == 0:
             break
-
-
-
