@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="Finalizando Todos exercicios do Mundo 2." />
+    <list default="true" id="f753568b-cd31-4a8e-bf8f-78ae57905234" name="Changes" comment="Finalizando Todos exercicios de Tuplas (mundo 3).">
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/078 (Maior e Menor valores na Lista).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/079 (Valores únicos em uma Lista).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/080 (Lista ordenada sem repetições).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/081 (Extraindo dados de uma Lista).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/082 (Dividindo valores em várias listas).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/083 (Validando expressões).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/084 (Lista composta e análise de dados).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/085 (Listas com pares e ímpares).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/086 (Matriz em Python).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/087 (Mais sobre Matriz em Python).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/088 (Palpites para a Mega Sena).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/089 (Boletim com listas compostas).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/1. Lista prática.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/1. Listas pratica 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/1. Listas pratica 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/2. Listas pratica 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/2. Listas pratica 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/Teste aprendizado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PYTHON/Trabalho Faculdade/Mega teste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PYTHON/Trabalho Faculdade/Menu Informática Básica.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,24 +108,56 @@
     &quot;Python.#15 071 (Simulador de Caixa Eletrônico).executor&quot;: &quot;Run&quot;,
     &quot;Python.045 Resultado diferente.executor&quot;: &quot;Run&quot;,
     &quot;Python.071 sem while.executor&quot;: &quot;Run&quot;,
+    &quot;Python.072 (Número por Extensor).executor&quot;: &quot;Run&quot;,
+    &quot;Python.073 (Tuplas com times de Futbal).executor&quot;: &quot;Run&quot;,
+    &quot;Python.074 (Maior e Menor valores em Tupla).executor&quot;: &quot;Run&quot;,
+    &quot;Python.075 (Analise de Dados em uma Tupla).executor&quot;: &quot;Run&quot;,
+    &quot;Python.076 (Lista de Preços com Tupla).executor&quot;: &quot;Run&quot;,
+    &quot;Python.077 (Contando vogais em Tupla).executor&quot;: &quot;Run&quot;,
+    &quot;Python.078 (Maior e Menor valores na Lista).executor&quot;: &quot;Run&quot;,
+    &quot;Python.079 (Valores únicos em uma Lista).executor&quot;: &quot;Run&quot;,
+    &quot;Python.080 (Lista ordenada sem repetições).executor&quot;: &quot;Run&quot;,
+    &quot;Python.081 (Extraindo dados de uma Lista).executor&quot;: &quot;Run&quot;,
+    &quot;Python.082 (Dividindo valores em várias listas).executor&quot;: &quot;Run&quot;,
+    &quot;Python.083 (Validando expressões).executor&quot;: &quot;Run&quot;,
+    &quot;Python.084 (Lista composta e análise de dados).executor&quot;: &quot;Run&quot;,
+    &quot;Python.085 (Listas com pares e ímpares).executor&quot;: &quot;Run&quot;,
+    &quot;Python.086 (Matriz em Python).executor&quot;: &quot;Run&quot;,
+    &quot;Python.087 (Mais sobre Matriz em Python).executor&quot;: &quot;Run&quot;,
+    &quot;Python.088 (Palpites para a Mega Sena).executor&quot;: &quot;Run&quot;,
+    &quot;Python.089 (Boletim com listas compostas).executor&quot;: &quot;Run&quot;,
     &quot;Python.1 (centralização).executor&quot;: &quot;Run&quot;,
+    &quot;Python.1. Lista prática.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1. Listas pratica 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2. Listas pratica 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2. Listas pratica 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lista prática.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Listas pratica 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Listas pratica 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mega teste.executor&quot;: &quot;Run&quot;,
     &quot;Python.Menu Informática Básica.executor&quot;: &quot;Run&quot;,
     &quot;Python.Meses do ano.executor&quot;: &quot;Run&quot;,
     &quot;Python.Progressão Geometrica.executor&quot;: &quot;Run&quot;,
     &quot;Python.Tabuada.executor&quot;: &quot;Run&quot;,
     &quot;Python.Testando Tupla, lista, dicionario.executor&quot;: &quot;Run&quot;,
     &quot;Python.Teste For v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Teste aprendizado.executor&quot;: &quot;Run&quot;,
     &quot;Python.While True.executor&quot;: &quot;Run&quot;,
     &quot;Python.While.executor&quot;: &quot;Run&quot;,
     &quot;Python.for na pratica.executor&quot;: &quot;Run&quot;,
     &quot;Python.tabuada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test 2 tupla.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test tupla 3 (reverse).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test tupla.executor&quot;: &quot;Run&quot;,
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;Python.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while teste.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;Aulas-do-Dia&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Thunay/OneDrive/Documentos/MeusProjetosGIT/AprendizadoPYTHON&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -112,6 +166,132 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager" selected="Python.Menu Informática Básica">
+    <configuration name="088 (Palpites para a Mega Sena)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AprendizadoPYTHON" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PYTHON/Mundo 3/Listas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/088 (Palpites para a Mega Sena).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="089 (Boletim com listas compostas)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AprendizadoPYTHON" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PYTHON/Mundo 3/Listas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/089 (Boletim com listas compostas).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Mega teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AprendizadoPYTHON" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PYTHON/Trabalho Faculdade" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PYTHON/Trabalho Faculdade/Mega teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Menu Informática Básica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AprendizadoPYTHON" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PYTHON/Trabalho Faculdade" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PYTHON/Trabalho Faculdade/Menu Informática Básica.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Teste aprendizado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AprendizadoPYTHON" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PYTHON/Mundo 3/Listas" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PYTHON/Mundo 3/Listas/Teste aprendizado.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Menu Informática Básica" />
+        <item itemvalue="Python.Mega teste" />
+        <item itemvalue="Python.088 (Palpites para a Mega Sena)" />
+        <item itemvalue="Python.Teste aprendizado" />
+        <item itemvalue="Python.089 (Boletim com listas compostas)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -284,7 +464,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775777277861</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Finalizando Todos exercicios de Tuplas (mundo 3).">
+      <option name="closed" value="true" />
+      <created>1777328942866</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1777328942866</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,13 +496,15 @@
     <MESSAGE value="Minha resolução do exercicio 70 e descrição do ex 71" />
     <MESSAGE value="Minha resolução do exercicio 71 e ex 71 sem while" />
     <MESSAGE value="Finalizando Todos exercicios do Mundo 2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finalizando Todos exercicios do Mundo 2." />
+    <MESSAGE value="criando exe de tabuada&#10;&#10;criando exe de tabuada" />
+    <MESSAGE value="Finalizando Todos exercicios de Tuplas (mundo 3)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalizando Todos exercicios de Tuplas (mundo 3)." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/PYTHON/Mundo 2/Video 72 (Estrutura de repetição while)/#14 060 (Calculo Fatorial).py</url>
+          <url>file://$PROJECT_DIR$/PYTHON/Mundo 2/Estrutura de repetição while/#14 060 (Calculo Fatorial).py</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
